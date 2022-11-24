@@ -1,0 +1,4 @@
+INSERT INTO BOOKS VALUES ('B1212','Ross Suarez',0,'History of Amazon Valley',2);
+INSERT INTO BOOKS VALUES ('B1213','H S Parkmey',5,'Language Fundamentals',5);	
+INSERT INTO SUBSCRIPTION VALUES ('John','B1212','2022-11-29','2022-11-25');
+INSERT INTO SUBSCRIPTION VALUES ('Sangeetha','B1213','','2022-11-25');
